@@ -1,2 +1,6 @@
 # datasets_machine_learning
-datasets to train machine learning algorithms
+> Datasets to train machine learning algorithms
+
+- FuelConsumption.csv file 
+Github link: https://raw.githubusercontent.com/marceloluisr/datasets_machine_learning/master/FuelConsumption.csv
+Oficial link: https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64s
